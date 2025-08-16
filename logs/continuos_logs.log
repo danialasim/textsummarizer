@@ -7,3 +7,7 @@
 [2025-08-17 03:16:26,362: INFO: common: yaml file: params.yaml loaded successfully]
 [2025-08-17 03:16:26,363: INFO: common: created directory at: artifacts]
 [2025-08-17 03:16:26,364: INFO: common: created directory at: artifacts/data_transformation]
+[2025-08-17 03:25:54,811: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-08-17 03:25:54,818: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-08-17 03:25:54,819: INFO: common: created directory at: artifacts]
+[2025-08-17 03:25:54,821: INFO: common: created directory at: artifacts/model_trainer]
