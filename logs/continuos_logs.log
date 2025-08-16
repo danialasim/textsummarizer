@@ -1,0 +1,5 @@
+[2025-08-17 03:08:41,505: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-08-17 03:08:41,508: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-08-17 03:08:41,508: INFO: common: created directory at: artifacts]
+[2025-08-17 03:08:41,509: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-08-17 03:08:50,613: INFO: 227420655: File is downloaded]
