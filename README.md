@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Hugging Face** for the amazing Transformers library
+- **Hugging Face** for the amazing Transformers library.
 - **Google Research** for the PEGASUS model
 - **Samsung** for the SAMSum dataset
 - **MLOps Community** for best practices and inspiration
